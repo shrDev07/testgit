@@ -1,1 +1,1 @@
-test de commit et de conflit fichier 2 vers github
+test de commit et de conflit aussi fichier 2 vers github
